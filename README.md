@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎬 ChillFix — Your Personal Movie Tracker
 
-## Getting Started
+Welcome to **ChillFix**, a sleek and modern movie tracking web app built with [Next.js](https://nextjs.org)! Whether you're a casual watcher or a movie buff, ChillFix helps you discover, organize, and keep track of your favorite films effortlessly.
 
-First, run the development server:
+---
+
+## 🚀 Features
+
+- **Browse Latest & Popular Movies** — Discover movies by genre or trending picks.
+- **Movie Details** — Get in-depth info: synopsis, ratings, trailers, and more.
+- **Personalized Lists** — Add movies to Favorites, Watched, or Watchlist with one click.
+- **Similar Recommendations** — Explore movies related to your favorites.
+- **User Authentication** — Secure login to save your personal movie collections.
+- **Responsive Design** — Enjoy a smooth experience on desktop and mobile.
+
+---
+
+## 🛠️ Technologies Used
+
+- [Next.js](https://nextjs.org) — React framework for server-side rendering and static site generation.
+- [The Movie Database (TMDb) API](https://developers.themoviedb.org/3) — Reliable and extensive movie data source.
+- [NextAuth.js](https://next-auth.js.org) — User authentication for Next.js.
+- [React Icons](https://react-icons.github.io/react-icons/) — Beautiful, consistent icons throughout the UI.
+- [Tailwind CSS](https://tailwindcss.com) — Fast and flexible styling.
+- [React Hot Toast](https://react-hot-toast.com) — Friendly notifications for user actions.
+
+---
+
+## 🎯 Getting Started
+
+Clone the repo and install dependencies:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/Aytac20/Chillfix.git
+cd Chillfix
+npm install
