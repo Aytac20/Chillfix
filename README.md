@@ -17,7 +17,8 @@ Welcome to **ChillFix**, a sleek and modern movie tracking web app built with [N
 
 ## 🖼️ Screenshot
 
-![ChillFix Screenshot]<img width="1015" height="683" alt="image" src="https://github.com/user-attachments/assets/27cd19d2-c44f-4d0f-b4f9-52d84a9d6775" />
+![ChillFix Screenshot]<img width="1015" height="684" alt="image" src="https://github.com/user-attachments/assets/e11924ad-e520-49d8-ba36-0e5130beaab2" />
+
 
 
 ---
