@@ -9,7 +9,6 @@ Welcome to **ChillFix**, a sleek and modern movie tracking web app built with [N
 - **Browse Latest & Popular Movies** — Discover movies by genre or trending picks.
 - **Movie Details** — Get in-depth info: synopsis, ratings, trailers, and more.
 - **Personalized Lists** — Add movies to Favorites, Watched, or Watchlist with one click.
-- **Similar Recommendations** — Explore movies related to your favorites.
 - **User Authentication** — Secure login to save your personal movie collections.
 - **Responsive Design** — Enjoy a smooth experience on desktop and mobile.
 
