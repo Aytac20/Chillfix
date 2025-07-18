@@ -15,6 +15,18 @@ Welcome to **ChillFix**, a sleek and modern movie tracking web app built with [N
 
 ---
 
+## 🖼️ Screenshot
+
+![ChillFix Screenshot](https://your-image-host.com/chillfix-screenshot.png)
+
+---
+
+## 🌐 Live Demo
+
+Check out the live site: [https://your-live-site-url.com](https://your-live-site-url.com)
+
+---
+
 ## 🛠️ Technologies Used
 
 - [Next.js](https://nextjs.org) — React framework for server-side rendering and static site generation.
