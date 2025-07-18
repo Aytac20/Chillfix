@@ -24,7 +24,7 @@ Welcome to **ChillFix**, a sleek and modern movie tracking web app built with [N
 
 ## 🌐 Live Demo
 
-Check out the live site: (https://chillfix-2faeceoa3-aytacs-projects-a320664f.vercel.app/)
+Check out the live site: [(https://chillfix-2faeceoa3-aytacs-projects-a320664f.vercel.app/)](https://chillfix.vercel.app/)
 
 ---
 
