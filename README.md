@@ -17,13 +17,14 @@ Welcome to **ChillFix**, a sleek and modern movie tracking web app built with [N
 
 ## 🖼️ Screenshot
 
-![ChillFix Screenshot](https://your-image-host.com/chillfix-screenshot.png)
+![ChillFix Screenshot]<img width="1015" height="683" alt="image" src="https://github.com/user-attachments/assets/27cd19d2-c44f-4d0f-b4f9-52d84a9d6775" />
+
 
 ---
 
 ## 🌐 Live Demo
 
-Check out the live site: [https://your-live-site-url.com](https://your-live-site-url.com)
+Check out the live site: [[https://your-live-site-url.com](https://your-live-site-url.com)](https://chillfix-2faeceoa3-aytacs-projects-a320664f.vercel.app/)
 
 ---
 
